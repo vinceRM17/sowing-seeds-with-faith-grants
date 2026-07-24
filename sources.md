@@ -1,0 +1,110 @@
+# Sources ledger — every rendered fact → its source
+
+## Identity
+- EIN 81-4862518 · Sowing Seeds With Faith
+- Financials FY2024: rev 830172 / exp 928488 / assets 209507 — **IRS Form 990 FY2024 as filed (ProPublica e-file, object 202531359349318663)**
+- Board: Kenneth Allen (Board President) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Alesha Frazier (Secretary) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Annabelle Pile (Treasurer) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Schaka Davis (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Robert Gunn (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Adrian Boone (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Kristia Ratherford (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Tarica Dow (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Floyd Craig (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Erin Pages (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
+- Board: Da'Marrion Fleming (Founder & Executive Director (staff)) — **IRS 990 FY2024 Part VII + sowingseedswithfaith.org/staff**
+- Board: Davin Belt (Program Director (staff)) — **IRS 990 FY2024 Part VII + sowingseedswithfaith.org/staff**
+- Proven funder: Brooke Brown Barzun Philanthropic Foundation $310000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2021-2024; $100K/yr operating 2022-2024)**
+- Proven funder: Brown-Forman Foundation $280000 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative FY2021-FY2025, 5 straight years)**
+- Proven funder: C.E. and S. Foundation $270500 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024 + $60K approved for future payment)**
+- Proven funder: Community Foundation of Louisville $429088 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2019-2025 across CFL grantmaking entities)**
+- Proven funder: James Graham Brown Foundation $139000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024)**
+
+## Opportunities (86)
+- GR-001 ⭐⭐⭐ UPS Louisville Community Care Fund (via Community Foundation of Louisville) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-002 ⭐⭐⭐ Brown-Forman Foundation — Grant Renewal (Champion Lifelong Learning) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-003 ⭐⭐⭐ C.E. and S. Foundation — Renewal + Growth — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-004 ⭐⭐ Brooke Brown Barzun Philanthropic Foundation — Renewal Stewardship — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-005 ⭐⭐ Sociable Weaver Foundation (Augusta Brown Holland) — Renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-006 ⭐⭐⭐ Community Foundation of Louisville — Competitive + Fund for Louisville — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-007 ⭐⭐ James Graham Brown Foundation — Program Support Renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-008 ⭐⭐ Kosair for Kids — Reactivation (Pathway to Success) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-009 ⭐⭐ Gheens Foundation — Summer Camp Renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-010 ⭐⭐ Sutherland Foundation — Unrestricted Renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-011 ⭐⭐ Metro United Way — Black L.O.V.E. + Youth Success RFP — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-012 ⭐ LG&E and KU Foundation — Community Grants (October window) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-013 ⭐ Honorable Order of Kentucky Colonels — Good Works Program — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-014 ⭐⭐⭐ 21st Century Community Learning Centers (KY Dept of Education) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-015 ⭐⭐ AmeriCorps VISTA — Capacity-Building Members (concept paper OPEN) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-016 ⭐ AmeriCorps State — Serve Kentucky (planning grant first) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-017 ⭐⭐ Louisville Metro External Agency Fund — YES! (Youth Engagement Services) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-018 Metro Council Neighborhood Development Fund (district sponsorship) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-019 USDA Summer Food Service Program — SUN Meals sponsor (via KDE) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-020 SummerWorks (KentuckianaWorks) — host site + sponsored youth staff — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-021 DOJ OJJDP Youth Mentoring — watch fall 2026 solicitations — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-022 Kentucky Humanities — Black history programming (suspended; monitor) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-023 ⭐⭐ Impact 100 Louisville — $100K transformational grant — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-024 ⭐⭐ W.L. Lyons Brown Foundation — open unsolicited — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-025 ⭐ Cralle Foundation — email application, no deadline — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-026 ⭐ V.V. Cooke Foundation — quarterly cycle, faith-friendly — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-027 ⭐ Snowy Owl Foundation — high new-grantee openness — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-028 Norton Foundation (Family) — call ED before applying — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-029 WHAS Crusade for Children — special-needs/emotional-wellness framing — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-030 Lift a Life Novak Family Foundation — Community Impact Grant (opens August) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-031 Baird Foundation — Kids Win education grants — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-032 Bonnycastle Club Foundation — renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-033 Nicklies Foundation — renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-034 Gilbert Foundation — earliest funder; renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-035 Commonwealth Center for Fathers & Families — partner regrant renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-036 Ten Talents Foundation — named partner; steward — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-037 Jack Harlow Foundation — deepen the flagship partnership — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-038 Evolve502 — partnership channel (scholarships + program funding) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-039 Jefferson County Public Education Foundation — JCPS-aligned funding — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-040 DeVos Urban Leadership Initiative — youth-leader training renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-041 Center for Disaster Philanthropy — resilience/relief rounds only — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-042 Louisville Urban League — facility + program partnership — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-043 USI Urban Strategies — Choice Neighborhoods program partner — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-044 Republic Bank Foundation — financial-literacy ask — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-045 Old National Bank Foundation — Financial Empowerment (Jan 5, 2027) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-046 Bank of America Charitable Foundation — Income Creation RFP (~Feb 2027) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-047 PNC Foundation — Louisville market (education/economic development lens) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-048 Fifth Third Bank — Louisville market cultivation (Russell investment) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-049 Stock Yards Bank — community development giving (cultivation) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-050 Walmart Spark Good Local Grants — Cycle 3 opens Aug 1 — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-051 Dollar General Literacy Foundation — Youth Literacy (spring 2027) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-052 ⭐⭐ New York Life Foundation — Aim High (via Afterschool Alliance, ~Jan 2027) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-053 NSLA Excellence in Summer Learning Award (opens ~Nov) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-054 Spectrum Digital Education Grants (~Feb 2027) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-055 TJX Foundation — LOI portal open now — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-056 Costco Charitable Contributions — warehouse-level — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-057 Kroger Community Gifts — Louisville Division — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-058 Meijer community giving + Team Gives — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-059 Voya Foundation — grades 9-12 financial literacy — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-060 State Farm Good Neighbor Citizenship — inquiry now, recheck Sept — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-061 Norton Healthcare Community Initiatives Funding — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-062 JD Finish Line Foundation — Louder Than Words (Oct 15) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-063 Churchill Downs Foundation — August board review — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-064 W.K. Kellogg Foundation — rolling LOI (honest long shot) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-065 Schultz Family Foundation — Statement of Interest (economic mobility) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-066 Papa John's Foundation — Building Community Fund (store nomination) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-067 Yum! Brands / LISC Louisville — West Louisville capacity-building route — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-068 Lowe's Hometowns — facility build-out (early 2027 window) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-069 CSX — Community Service grants (rolling) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-070 Marshall Family Foundation — relationship-only monitor — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-071 Owsley Brown II Family Foundation — watch only (in transition) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-072 T. Rowe Price Charitable — anonymous DAF donor stewardship — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-073 Benevity / workplace giving — employer-match channel stewardship — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-074 ⭐⭐ KY Title II Youth Crime Prevention subawards (JJAB / Justice Cabinet) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-075 ⭐⭐ Paul Ogle Foundation — program grants (Jefferson County eligible) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-076 ⭐ Park Community Credit Union — Pathways to Prosperity + Financial Education — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-077 Louisville Bar Foundation — civic/justice-education module (Oct 9) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-078 KY Opioid Abatement (KYOAAC) — youth prevention NOFO (~Oct 2026) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-079 Artemis Fund — CFL youth-development giving circle (2027) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-080 Fund for the Arts — Community Event Mini-Grant (Oct 16; event-only) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-081 Sam Swope Family Foundation — cultivation (exact mission overlap) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-082 PC(USA) Self-Development of People — conditional (eligibility check first) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-083 ⭐⭐ U.S. Bank Foundation — Community Possible (LOI open year-round) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-084 Chick-fil-A True Inspiration Awards — Operator nomination ($30K-$350K) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-085 Stand Together Foundation — open partnership application — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-086 Access Ventures — relationship-only monitor (proven 2024) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
