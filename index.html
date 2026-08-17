@@ -1275,6 +1275,111 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 <!-- VERCEL-ANALYTICS-V1 — start -->
 <script defer src="/_vercel/insights/script.js"></script>
 <!-- VERCEL-ANALYTICS-V1 — end -->
+<!-- BOTHY:PRESS-FEEDBACK-V1 -->
+<style>
+/* ═══════════════════════════════════════════════════════════════════
+   PRESS-FEEDBACK-V1 — 2026-08-16 motion audit (apple-design skill)
+   See system/docs/design-review/2026-08-16-fleet-motion-audit.md (H1, M1).
+
+   The fleet had 114 `:hover` rules and exactly one `:active` rule, and that
+   one only changed a cursor on a desktop-only drag. So every affordance was
+   communicated through hover — which does not exist on a touchscreen, and on
+   desktop fires *before* the click rather than confirming it. A board member
+   tapping a filter chip on a phone got no acknowledgement the tap landed.
+
+     Design Guideline — Response: "Respond on pointer-down, not on release.
+     Highlight a button the instant it's pressed. Waiting for click/touch-up
+     to show feedback feels dead."
+
+   Lives in its own <style> element rather than inside the main stylesheet so
+   propagate-block.py can carry it: that script matches HTML/JS comment
+   markers, and CSS comments are not a marker style it recognizes.
+
+   Implementation notes:
+   - Uses the independent `scale` property, not `transform: scale()`, so it
+     composes with any existing transform instead of replacing it.
+   - Tabs, chips, action buttons, kc-prev/next and the rest are already
+     <button> elements (109 of them), so `button` carries most of this.
+     `.accordion-toggle` is a <span> and is named explicitly.
+   - `.kanban-card` is excluded via [draggable]. It uses native HTML5
+     drag-and-drop, which renders its ghost image from the live element, so
+     scaling on :active would scale the drag ghost too.
+   - No reduced-motion handling needed here: the existing reset in the main
+     stylesheet already forces transition-duration to 0.01ms with !important,
+     which degrades this to an instant snap. That is still correct feedback —
+     immediacy is the entire point.
+   ═══════════════════════════════════════════════════════════════════ */
+
+button:not(:disabled):not([draggable="true"]),
+.accordion-toggle,
+[role="button"]:not([aria-disabled="true"]):not([draggable="true"]) {
+  transition: scale 100ms ease-out;
+  /* Drop the legacy ~300ms tap-delay disambiguation window. */
+  touch-action: manipulation;
+}
+
+button:not(:disabled):not([draggable="true"]):active,
+.accordion-toggle:active,
+[role="button"]:not([aria-disabled="true"]):not([draggable="true"]):active {
+  scale: 0.97;
+}
+</style>
+<!-- BOTHY:PRESS-FEEDBACK-V1:END -->
+<!-- BOTHY:PIPELINE-HINT-V1 -->
+<script>
+/* ═══════════════════════════════════════════════════════════════════
+   PIPELINE-HINT-V1 — 2026-08-16 motion audit (apple-design skill), H2.
+   See system/docs/design-review/2026-08-16-fleet-motion-audit.md.
+
+   Kanban cards carry title="Click ✎ to edit · drag to change stage".
+   HTML5 drag events never fire on touch, so on a phone or tablet that is
+   guidance the user cannot act on. The ‹ › stage arrows and the stage
+   dropdown work everywhere, so point at those instead.
+
+   The generator template fixes this at render time via pipelineCardHint().
+   This block exists for the ALREADY-SHIPPED fleet, where the fix has to be
+   applied to rendered output rather than to the render function — the call
+   site is an inline expression inside a long JS line, not something a
+   marker block can replace. On a dashboard that already has
+   pipelineCardHint() this is a harmless no-op: the title never matches the
+   desktop string in the first place.
+
+   Only rewrites titles that exactly equal the desktop string, so it cannot
+   clobber a card whose title was set by anything else. Observes childList
+   only (not attributes), so retitling cannot retrigger the observer.
+   ═══════════════════════════════════════════════════════════════════ */
+(function () {
+  if (!window.matchMedia || !window.matchMedia('(pointer: coarse)').matches) return;
+  var FINE   = 'Click ✎ to edit · drag to change stage';
+  var COARSE = 'Tap ✎ to edit · use ‹ › to change stage';
+  var queued = false;
+
+  function retitle() {
+    queued = false;
+    var cards = document.getElementsByClassName('kanban-card');
+    for (var i = 0; i < cards.length; i++) {
+      if (cards[i].title === FINE) cards[i].title = COARSE;
+    }
+  }
+  function schedule() {
+    if (queued) return;
+    queued = true;
+    (window.requestAnimationFrame || window.setTimeout)(retitle, 0);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', schedule);
+  } else {
+    schedule();
+  }
+  if (window.MutationObserver) {
+    new MutationObserver(schedule).observe(document.documentElement, {
+      childList: true, subtree: true
+    });
+  }
+})();
+</script>
+<!-- BOTHY:PIPELINE-HINT-V1:END -->
 </head>
 <body>
 
