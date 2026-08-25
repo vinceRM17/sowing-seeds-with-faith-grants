@@ -31,7 +31,14 @@
    "Allegis Group Foundation",
    "Allied Media Projects"
   ],
-  "lastVerified": "2026-08-25"
+  "lastVerified": "2026-08-25",
+  "cardIntel": {
+   "version": "CARD-INTEL-V1",
+   "run": "2026-08-25",
+   "renewalStrategy": 5,
+   "peerContext": 40,
+   "askCalibration": 37
+  }
  },
  "org": {
   "name": "Sowing Seeds With Faith",
@@ -560,7 +567,19 @@
     "reporting": "Corporate reporting, familiar from prior years.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 152,
+    "p25": 30000,
+    "median": 50000,
+    "p75": 100000,
+    "max": 2000000,
+    "years": "FY2021-FY2024",
+    "orgLast": 100000,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): West End Girls School ($2,000,000, FY2024) · Louisville Central Community Centers Inc ($1,000,000, FY2024) · Simmons College Of Kentucky Inc ($1,000,000, FY2024).",
+   "renewalStrategy": "Verified giving to you is GROWING: $50,000 (FY2021) → $100,000 (FY2023). A raise the funder initiated is the strongest possible renewal signal — acknowledge it explicitly and consider a multi-year ask at or above the new level. Every gift is coded general/unrestricted — protect that: renew as general operating support, do not convert it into a project ask. Process: accepts applications (stated deadline: Submission Deadlines For May 1, 2024 Through April 30, 2025 Are May 1, Aug. 1, Nov. 1, Feb. 1) — file the formal renewal on cycle rather than relying on momentum."
   },
   {
    "id": "GR-003",
@@ -603,7 +622,19 @@
     "reporting": "Family-foundation reporting, established.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 86,
+    "p25": 10000,
+    "median": 50000,
+    "p75": 100000,
+    "max": 1000000,
+    "years": "FY2023-FY2024",
+    "orgLast": 89500,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Evolve502 Scholars Foundation Inc ($1,000,000, FY2024) · Jewish Family And Career Services ($260,000, FY2024) · Young Mens Christian Association (Ymca) Of Greater Louisville Inc ($185,000, FY2024).",
+   "renewalStrategy": "Verified giving to you is GROWING: $60,000 (FY2023) → $89,500 (FY2024). A raise the funder initiated is the strongest possible renewal signal — acknowledge it explicitly and consider a multi-year ask at or above the new level."
   },
   {
    "id": "GR-004",
@@ -646,7 +677,17 @@
     "reporting": "Light — unrestricted operating support.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 81,
+    "p25": 5625,
+    "median": 16667,
+    "p75": 50000,
+    "max": 333453,
+    "years": "FY2022-FY2023",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2023): Parks Alliance Of Louisville ($333,453, FY2023) · Speed Art Museum ($250,000, FY2023) · Community Foundation Of Louisville ($208,204, FY2023)."
   },
   {
    "id": "GR-005",
@@ -689,7 +730,17 @@
     "reporting": "Light.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 107,
+    "p25": 5000,
+    "median": 10000,
+    "p75": 30000,
+    "max": 998908,
+    "years": "FY2022-FY2023",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2023): Community Foundation Of Louisville ($998,908, FY2023) · Parks Alliance Of Louisville ($333,453, FY2023) · Community Coordinated Child Care ($60,000, FY2023)."
   },
   {
    "id": "GR-006",
@@ -775,7 +826,19 @@
     "reporting": "Heavier reporting on larger grants.",
     "match": "Max 30% of project budget — plan cofunding."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 93,
+    "p25": 50000,
+    "median": 229884,
+    "p75": 500000,
+    "max": 1500000,
+    "years": "FY2023-FY2024",
+    "orgLast": 50000,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Rita June Foundation ($1,500,000, FY2024) · Kentucky Derby Museum ($1,025,000, FY2024) · Kentucky Council On Postsecondary Education ($1,000,000, FY2024).",
+   "renewalStrategy": "One verified gift on record: $50,000 (FY2024). Treat the renewal as relationship-building — report impact before any larger ask. Process: accepts applications (stated deadline: See \"For Grantseekers\" Section On Jgbf.Org) — file the formal renewal on cycle rather than relying on momentum."
   },
   {
    "id": "GR-008",
@@ -861,7 +924,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 477,
+    "p25": 10000,
+    "median": 25000,
+    "p75": 50000,
+    "max": 400000,
+    "years": "FY2022-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Volunteers Of America Mid-States Inc ($400,000, FY2024) · Simmons College Of Kentucky Inc ($250,000, FY2024) · The Housing Partnership Inc ($250,000, FY2024)."
   },
   {
    "id": "GR-010",
@@ -904,7 +977,19 @@
     "reporting": "Minimal — unrestricted.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 40,
+    "p25": 3557,
+    "median": 25000,
+    "p75": 35625,
+    "max": 75000,
+    "years": "FY2022-FY2024",
+    "orgLast": 37500,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): National Center For Families Learning ($75,000, FY2024) · Adelante Hispanic Achievers ($30,000, FY2024) · Decode Project ($25,000, FY2024).",
+   "renewalStrategy": "Verified giving to you has DECLINED: $40,000 (FY2022) → $40,000 (FY2023) → $37,500 (FY2024). Diagnose before re-asking — a conversation about what changed beats a same-size renewal letter. Every gift is coded general/unrestricted — protect that: renew as general operating support, do not convert it into a project ask. Process: preselected-only per the funder's own Part XV line 2 — this is a relationship, not an application. Stewardship (acknowledgment, impact reporting, trustee contact) is the whole renewal mechanism."
   },
   {
    "id": "GR-011",
@@ -990,7 +1075,18 @@
     "reporting": "Light corporate reporting.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites) Verified 2026-08-24 — TY2025 IRS 990-PF Part XV grant line (Bothy local index, batch 2026_TEOS_XML_05A)."
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites) Verified 2026-08-24 — TY2025 IRS 990-PF Part XV grant line (Bothy local index, batch 2026_TEOS_XML_05A).",
+   "askCalibration": {
+    "n": 870,
+    "p25": 1000,
+    "median": 2500,
+    "p75": 5000,
+    "max": 4484643,
+    "years": "FY2023-FY2025",
+    "orgLast": 1500,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2025): Association Of Community Ministries Inc ($749,000, FY2025) · Metro United Way Inc ($336,295, FY2025) · Whas Crusade For Children Inc ($183,308, FY2025)."
   },
   {
    "id": "GR-013",
@@ -1506,7 +1602,17 @@
     "reporting": "Light.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 74,
+    "p25": 2187,
+    "median": 8500,
+    "p75": 25625,
+    "max": 286510,
+    "years": "FY2023",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2023): Louisville Orchestra ($286,510, FY2023) · Louisville Collegiate School ($210,000, FY2023) · Community Foundation Of Louisville ($200,000, FY2023)."
   },
   {
    "id": "GR-025",
@@ -1549,7 +1655,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 180,
+    "p25": 5000,
+    "median": 5350,
+    "p75": 10000,
+    "max": 10500,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Alzheimers Disease And Related Disorders Association Inc Greater Kentucky ($10,500, FY2024) · Operation Care ($10,202, FY2024) · Buckhorn Children & Family Services ($10,000, FY2024)."
   },
   {
    "id": "GR-026",
@@ -1592,7 +1708,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 250,
+    "p25": 1500,
+    "median": 3000,
+    "p75": 5000,
+    "max": 100000,
+    "years": "FY2022-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Down Syndrome Of Louisville ($20,000, FY2024) · Home Of The Innocents ($20,000, FY2024) · Sunrise Children'S Services ($15,000, FY2024)."
   },
   {
    "id": "GR-027",
@@ -1635,7 +1761,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 184,
+    "p25": 2000,
+    "median": 3000,
+    "p75": 5000,
+    "max": 25000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Aclu Of Ky ($25,000, FY2024) · Ky Dance Council ($25,000, FY2024) · Flight Club 502 ($12,500, FY2024)."
   },
   {
    "id": "GR-028",
@@ -1678,7 +1814,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 61,
+    "p25": 10000,
+    "median": 15000,
+    "p75": 27500,
+    "max": 75000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Waldorf School Of Louisville ($70,000, FY2024) · Berry Center Inc ($60,000, FY2024) · Dare To Care ($50,000, FY2024)."
   },
   {
    "id": "GR-029",
@@ -1764,7 +1910,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 64,
+    "p25": 26250,
+    "median": 50000,
+    "p75": 100000,
+    "max": 3000000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Norton Children'S Hospital ($2,180,410, FY2024) · Rita June Foundation Inc ($1,500,000, FY2024) · Metro United Way ($812,500, FY2024)."
   },
   {
    "id": "GR-031",
@@ -1807,7 +1963,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 1107,
+    "p25": 250,
+    "median": 521,
+    "p75": 1500,
+    "max": 75000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): The Cabbage Patch Settlement House ($75,000, FY2024) · Metro United Way ($34,473, FY2024) · Leukemia &Amp; Lymphoma Society ($25,475, FY2024)."
   },
   {
    "id": "GR-032",
@@ -1850,7 +2016,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 7,
+    "p25": 1750,
+    "median": 3000,
+    "p75": 6000,
+    "max": 7000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Dreams With Wings ($7,000, FY2024) · Bringing Justice Home ($6,000, FY2024) · Home Of The Innocents ($1,750, FY2024)."
   },
   {
    "id": "GR-033",
@@ -1893,7 +2069,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 48,
+    "p25": 1159,
+    "median": 2250,
+    "p75": 5000,
+    "max": 25000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): 21St Century Parks Inc ($25,000, FY2024) · Usa Cares Inc ($11,000, FY2024) · Norton Childrens Hospital Foundation Inc ($7,500, FY2024)."
   },
   {
    "id": "GR-034",
@@ -1936,7 +2122,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 25,
+    "p25": 2800,
+    "median": 3000,
+    "p75": 4000,
+    "max": 987319,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Dick Gilbert Charitable Fund ($987,319, FY2024) · Boy'S & Girl'S Haven ($5,000, FY2024) · Lypc Co The Community Foundation Of Louisville ($5,000, FY2024)."
   },
   {
    "id": "GR-035",
@@ -2194,7 +2390,8 @@
     "reporting": "Program reporting.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "renewalStrategy": "One verified gift on record: $3,500 (FY2024). Treat the renewal as relationship-building — report impact before any larger ask. Gifts are purpose-coded (e.g. “Project/Program - Youth Leadership Conference”) — mirror that language in the renewal; do not send a general-ops ask against a program-restricted pattern. Process: preselected-only per the funder's own Part XV line 2 — this is a relationship, not an application. Stewardship (acknowledgment, impact reporting, trustee contact) is the whole renewal mechanism."
   },
   {
    "id": "GR-041",
@@ -2366,7 +2563,17 @@
     "reporting": "Light.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 134,
+    "p25": 88,
+    "median": 523,
+    "p75": 10000,
+    "max": 266666,
+    "years": "FY2023",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2023): University Of Louisville Foundation Inc ($266,666, FY2023) · University Of Louisville Athletic Association ($100,000, FY2023) · United Jewish Campaign ($60,000, FY2023)."
   },
   {
    "id": "GR-045",
@@ -2409,7 +2616,8 @@
     "reporting": "Standard bank reporting.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "peerContext": "Also funds (verified Part XV, FY2025): See Attached Statement ($4,960,939, FY2025)."
   },
   {
    "id": "GR-046",
@@ -2452,7 +2660,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 1741,
+    "p25": 100,
+    "median": 325,
+    "p75": 1000,
+    "max": 1562500,
+    "years": "FY2023",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2023): American Cancer Society - Georgia ($1,562,500, FY2023) · Town Branch Park Inc ($250,000, FY2023) · Center For Women Children And Fam ($100,000, FY2023)."
   },
   {
    "id": "GR-047",
@@ -2581,7 +2799,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 9,
+    "p25": 22500,
+    "median": 50000,
+    "p75": 91666,
+    "max": 100000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): West End School ($100,000, FY2024) · Waterfront Botanical Gardens ($83,333, FY2024) · Rita June Foundation Inc ($50,000, FY2024)."
   },
   {
    "id": "GR-050",
@@ -2710,7 +2938,17 @@
     "reporting": "Standard foundation reporting.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 40,
+    "p25": 500,
+    "median": 4000,
+    "p75": 23750,
+    "max": 170000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Blue Ridge Hospice ($170,000, FY2024) · The Kentucky Center For Grieving Children And Families Inc ($50,000, FY2024) · Erin'S House For Grieving Children ($40,000, FY2024)."
   },
   {
    "id": "GR-053",
@@ -2925,7 +3163,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 43,
+    "p25": 5000,
+    "median": 10000,
+    "p75": 30000,
+    "max": 100000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Gleaners Food Bank Of Indiana ($100,000, FY2024) · Nku Foundation ($50,000, FY2024) · Community Ventures Corporation ($37,800, FY2024)."
   },
   {
    "id": "GR-058",
@@ -3140,7 +3388,17 @@
     "reporting": "Simple.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 88,
+    "p25": 2000,
+    "median": 9000,
+    "p75": 10000,
+    "max": 338000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Gleaners Food Bank Of Indiana ($338,000, FY2024) · Girls Inc National Resource Center ($265,000, FY2024) · Keep Indianapolis Beautiful Inc ($70,000, FY2024)."
   },
   {
    "id": "GR-063",
@@ -3183,7 +3441,17 @@
     "reporting": "Light.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 20,
+    "p25": 10000,
+    "median": 10000,
+    "p75": 20037,
+    "max": 50000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Backside Learning Center ($50,000, FY2024) · Kentucky Racetrack Chaplaincy Inc ($30,000, FY2024) · Kentucky Equine Adoption Center ($20,050, FY2024)."
   },
   {
    "id": "GR-064",
@@ -3226,7 +3494,17 @@
     "reporting": "Heavier if funded.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 79,
+    "p25": 300,
+    "median": 1000,
+    "p75": 2800,
+    "max": 1018483,
+    "years": "FY2022-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Sagamore Institute ($751,500, FY2024) · Washington Institute For Financial Security ($300,000, FY2024) · Federation Of Appalachian Housing Enterpises ($200,000, FY2024)."
   },
   {
    "id": "GR-065",
@@ -3269,7 +3547,8 @@
     "reporting": "Unknown.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "peerContext": "Also funds (verified Part XV, FY2024): Strada Collaborative Inc ($200,000, FY2024)."
   },
   {
    "id": "GR-066",
@@ -3312,7 +3591,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 48,
+    "p25": 2500,
+    "median": 5000,
+    "p75": 7500,
+    "max": 30000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Dare To Care Inc ($30,000, FY2024) · University Of Louisville Foundation Inc ($30,000, FY2024) · Greater Louisville Foundation Inc ($25,000, FY2024)."
   },
   {
    "id": "GR-067",
@@ -3355,7 +3644,18 @@
     "reporting": "LISC reporting.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 55,
+    "p25": 2000,
+    "median": 5000,
+    "p75": 100000,
+    "max": 3329428,
+    "years": "FY2023-FY2024",
+    "orgLast": 2000,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Emergency Assistance Foundation ($3,329,428, FY2024) · University Of Louisville Foundation ($426,000, FY2024) · Dare To Care ($302,477, FY2024)."
   },
   {
    "id": "GR-068",
@@ -3441,7 +3741,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 40,
+    "p25": 150,
+    "median": 380,
+    "p75": 575,
+    "max": 2900,
+    "years": "FY2025",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2025): Velocirabbits Baseball ($2,900, FY2025) · Jennifer S Fallick Cancer Support Center ($2,500, FY2025) · Wabash College ($2,500, FY2025)."
   },
   {
    "id": "GR-070",
@@ -3484,7 +3794,17 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 45,
+    "p25": 5000,
+    "median": 10000,
+    "p75": 20000,
+    "max": 110000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): St Joseph Children'S Home ($110,000, FY2024) · Assumption High School ($105,000, FY2024) · Kids Center ($45,000, FY2024)."
   },
   {
    "id": "GR-071",
@@ -3527,7 +3847,8 @@
     "reporting": "N/A.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "peerContext": "Also funds (verified Part XV, FY2023): University Of Louisville Foundation Inc ($250,000, FY2023) · Kentucky College Of Art Design ($175,000, FY2023)."
   },
   {
    "id": "GR-072",
@@ -3699,7 +4020,17 @@
     "reporting": "Program-grant reporting.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 21,
+    "p25": 5000,
+    "median": 10000,
+    "p75": 162500,
+    "max": 1057347,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): River Heritage Conservancy ($500,000, FY2024) · Family Ark ($300,000, FY2024) · Gilda'S Club Kentuckiana ($200,000, FY2024)."
   },
   {
    "id": "GR-076",
@@ -3957,7 +4288,17 @@
     "reporting": "Standard.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 41,
+    "p25": 65000,
+    "median": 80000,
+    "p75": 100000,
+    "max": 200000,
+    "years": "FY2023-FY2025",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2025): Family Scholar House ($130,000, FY2025) · West End School ($130,000, FY2025) · Ky Humane Society ($100,000, FY2025)."
   },
   {
    "id": "GR-082",
@@ -4172,7 +4513,18 @@
     "reporting": "Minimal.",
     "match": "None required."
    },
-   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)"
+   "source": "Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)",
+   "askCalibration": {
+    "n": 26,
+    "p25": 3500,
+    "median": 25000,
+    "p75": 66625,
+    "max": 623901,
+    "years": "FY2023-FY2024",
+    "orgLast": 1900,
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Galilee Baptist Church ($623,901, FY2024) · Ace Project Inc ($115,500, FY2024) · Access Justice ($60,000, FY2024)."
   },
   {
    "id": "GR-087",
@@ -4215,7 +4567,17 @@
     "reporting": "Private-foundation reporting — acknowledgment and brief narrative.",
     "match": "No match required."
    },
-   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)"
+   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)",
+   "askCalibration": {
+    "n": 37,
+    "p25": 3000,
+    "median": 5000,
+    "p75": 5000,
+    "max": 30000,
+    "years": "FY2023-FY2025",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2025): University Of Kentucky ($30,000, FY2025) · Bellarmine University ($10,000, FY2025) · St Mary'S Center ($7,500, FY2025)."
   },
   {
    "id": "GR-088",
@@ -4258,7 +4620,17 @@
     "reporting": "Private-foundation reporting — acknowledgment and brief narrative.",
     "match": "No match required."
    },
-   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)"
+   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)",
+   "askCalibration": {
+    "n": 48,
+    "p25": 5000,
+    "median": 8000,
+    "p75": 10915,
+    "max": 50000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Hildegard House ($50,000, FY2024) · Cabbage Patch Settlement House ($27,000, FY2024) · Food Literacy Project At Oxmoor Farm Inc ($15,000, FY2024)."
   },
   {
    "id": "GR-089",
@@ -4301,7 +4673,17 @@
     "reporting": "Private-foundation reporting — acknowledgment and brief narrative.",
     "match": "No match required."
    },
-   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)"
+   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)",
+   "askCalibration": {
+    "n": 96,
+    "p25": 10000,
+    "median": 15000,
+    "p75": 50000,
+    "max": 210000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Yew Dell Bontancial Gaqrdens ($205,000, FY2024) · Gilda'S Club Kentuckiana ($105,000, FY2024) · Hosparus Inc ($100,000, FY2024)."
   },
   {
    "id": "GR-090",
@@ -4344,7 +4726,17 @@
     "reporting": "Private-foundation reporting — acknowledgment and brief narrative.",
     "match": "No match required."
    },
-   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)"
+   "source": "Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)",
+   "askCalibration": {
+    "n": 67,
+    "p25": 2000,
+    "median": 4000,
+    "p75": 7000,
+    "max": 55000,
+    "years": "FY2023-FY2024",
+    "source": "funder's own 990-PF Part XV lines, local index"
+   },
+   "peerContext": "Also funds (verified Part XV, FY2024): Community Chest Of Oldham Co ($55,000, FY2024) · Creasy Mahan Nature Preserve ($33,000, FY2024) · Hope Health Clinic ($22,000, FY2024)."
   },
   {
    "id": "GR-091",
