@@ -2141,14 +2141,10 @@ function statusBadge(s){const m={'Preparing':'status-preparing','Monitoring':'st
 
 // ═══════════ ARCHIVE STATE ═══════════
 const ARCHIVE_KEY = 'fccb_grant_archived';
-const DEFAULT_ARCHIVED = [
-  // 4 stretch entries pre-archived per fit audit (2026-05-08).
-  // SMALL tier (target 25-30 total / 22+ active / 4 archived).
-  'GR-023', // Lift A Life Novak — focus-area mismatch
-  'GR-024', // Gheens — eligibility floor borderline
-  'GR-025', // C.E. and S. — invite-only no path
-  'GR-026'  // Trips for Kids — youth-only mismatch
-];
+// DEFAULT_ARCHIVED fix 2026-08-25: the old hardcoded list was Falls City BikeWorks
+// residue that pre-archived four arbitrary cards on every dashboard. Per-org
+// pre-archiving now lives in data (meta.defaultArchived) at regen time.
+const DEFAULT_ARCHIVED = [];
 
 function loadArchived(){ try { const stored = JSON.parse(localStorage.getItem(ARCHIVE_KEY)); if(stored) return new Set(stored); return new Set(DEFAULT_ARCHIVED); } catch(e){ return new Set(DEFAULT_ARCHIVED); } }
 function saveArchived(set){ safeSetItem(ARCHIVE_KEY, JSON.stringify([...set])); }
