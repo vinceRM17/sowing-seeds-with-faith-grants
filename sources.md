@@ -21,7 +21,7 @@
 - Proven funder: Community Foundation of Louisville — $429,088 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2019-2025 across CFL grantmaking entities)**
 - Proven funder: James Graham Brown Foundation — $139,000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024)**
 
-## Opportunities (86)
+## Opportunities (97)
 - GR-001 ⭐⭐⭐ UPS Louisville Community Care Fund (via Community Foundation of Louisville) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-002 ⭐⭐⭐ Brown-Forman Foundation — Grant Renewal (Champion Lifelong Learning) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-003 ⭐⭐⭐ C.E. and S. Foundation — Renewal + Growth — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
@@ -108,3 +108,14 @@
 - GR-084 Chick-fil-A True Inspiration Awards — Operator nomination ($30K-$350K) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-085 Stand Together Foundation — open partnership application — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-086 Access Ventures — relationship-only monitor (proven 2024) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-087 Jamie Parsley Family Foundation — Grants Lane — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-088 Wood & Marie C. Hannah Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-089 Etscorn Charitable Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-090 Mahan Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-091 Kirchdorfer Opportunities Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-092 Bader Family Charitable Trust — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-093 Cory Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-094 B.J. Killian Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-095 Mackin Family Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-096 Whippoorwill Family Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
+- GR-097 Kindred Foundation — **Bothy-verified public-source research 2026-08-25 (engine-4 BMF sweep + local Part XV/access index)**
