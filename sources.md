@@ -15,11 +15,11 @@
 - Board: Erin Pages (Director) — **IRS 990 FY2024 Part VII (ProPublica)**
 - Board: Da'Marrion Fleming (Founder & Executive Director (staff)) — **IRS 990 FY2024 Part VII + sowingseedswithfaith.org/staff**
 - Board: Davin Belt (Program Director (staff)) — **IRS 990 FY2024 Part VII + sowingseedswithfaith.org/staff**
-- Proven funder: Brooke Brown Barzun Philanthropic Foundation $310000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2021-2024; $100K/yr operating 2022-2024)**
-- Proven funder: Brown-Forman Foundation $280000 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative FY2021-FY2025, 5 straight years)**
-- Proven funder: C.E. and S. Foundation $270500 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024 + $60K approved for future payment)**
-- Proven funder: Community Foundation of Louisville $429088 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2019-2025 across CFL grantmaking entities)**
-- Proven funder: James Graham Brown Foundation $139000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024)**
+- Proven funder: Brooke Brown Barzun Philanthropic Foundation — $310,000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2021-2024; $100K/yr operating 2022-2024)**
+- Proven funder: Brown-Forman Foundation — $280,000 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative FY2021-FY2025, 5 straight years)**
+- Proven funder: C.E. and S. Foundation — $270,500 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024 + $60K approved for future payment)**
+- Proven funder: Community Foundation of Louisville — $429,088 FY2025 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2019-2025 across CFL grantmaking entities)**
+- Proven funder: James Graham Brown Foundation — $139,000 FY2024 — **Bothy funder research — 990/990-PF Schedule I / Part XV reverse index via ProPublica, 2018-2025 (cumulative 2020-2024)**
 
 ## Opportunities (86)
 - GR-001 ⭐⭐⭐ UPS Louisville Community Care Fund (via Community Foundation of Louisville) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
@@ -33,7 +33,7 @@
 - GR-009 ⭐⭐ Gheens Foundation — Summer Camp Renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-010 ⭐⭐ Sutherland Foundation — Unrestricted Renewal — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-011 ⭐⭐ Metro United Way — Black L.O.V.E. + Youth Success RFP — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
-- GR-012 ⭐ LG&E and KU Foundation — Community Grants (October window) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
+- GR-012 ⭐ LG&E and KU Foundation — Community Grants (October window) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites) Verified 2026-08-24 — TY2025 IRS 990-PF Part XV grant line (Bothy local index, batch 2026_TEOS_XML_05A).**
 - GR-013 ⭐ Honorable Order of Kentucky Colonels — Good Works Program — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-014 ⭐⭐⭐ 21st Century Community Learning Centers (KY Dept of Education) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
 - GR-015 ⭐⭐ AmeriCorps VISTA — Capacity-Building Members (concept paper OPEN) — **Bothy research 2026-07-24 (ProPublica 990/990-PF reverse index + funder sites)**
