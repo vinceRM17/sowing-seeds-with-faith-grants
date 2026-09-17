@@ -1,0 +1,5 @@
+# Internal working docs: funder research, verification ledgers, research disagreements.
+# These were publicly fetchable on the live dashboard until 2026-09-17. Vercel serves the
+# repo root on these static projects, so a committed doc is a published doc.
+*.md
+**/*.md
